@@ -10,12 +10,27 @@ namespace alfabank_EXE
     
     class Program
     {
-        public static int bsearch(int[] array, int x)
-        {     
-            int value = array.Where(n => n < x).First();
-            int index = Array.IndexOf(array,value);
-            Console.WriteLine(index);
-            return index;
+        public static int? bsearch(int[] array, int x)
+        {
+          try
+            {
+                IEnumerable<int> ivalue = array.Where(n => n < x);
+                if(ivalue.Count()==0)
+                {
+                    return null;
+                }
+                else
+                {
+                    int value = ivalue.First();
+                    int index = Array.IndexOf(array, value);
+                    return index;
+                }
+            } 
+            catch (Exception ex)
+            {
+                throw (ex);
+            }   
+                     
         }
 
         static void Main(string[] args)
