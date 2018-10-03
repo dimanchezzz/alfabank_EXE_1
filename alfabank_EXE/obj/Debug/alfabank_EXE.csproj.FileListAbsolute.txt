@@ -1,0 +1,6 @@
+C:\Users\dima3\OneDrive\Документы\Visual Studio 2015\Projects\alfabank_EXE\alfabank_EXE\bin\Debug\alfabank_EXE.exe.config
+C:\Users\dima3\OneDrive\Документы\Visual Studio 2015\Projects\alfabank_EXE\alfabank_EXE\bin\Debug\alfabank_EXE.exe
+C:\Users\dima3\OneDrive\Документы\Visual Studio 2015\Projects\alfabank_EXE\alfabank_EXE\bin\Debug\alfabank_EXE.pdb
+C:\Users\dima3\OneDrive\Документы\Visual Studio 2015\Projects\alfabank_EXE\alfabank_EXE\obj\Debug\alfabank_EXE.csprojResolveAssemblyReference.cache
+C:\Users\dima3\OneDrive\Документы\Visual Studio 2015\Projects\alfabank_EXE\alfabank_EXE\obj\Debug\alfabank_EXE.exe
+C:\Users\dima3\OneDrive\Документы\Visual Studio 2015\Projects\alfabank_EXE\alfabank_EXE\obj\Debug\alfabank_EXE.pdb
